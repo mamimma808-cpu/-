@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">TimeLock Blocker</string>
+    <string name="title_bengali">টাইমলক ব্লকার</string>
+    <string name="subtitle">মনোযোগ বাড়ান ও নির্দিষ্ট সময়ের জন্য ক্ষতিকর বা বিভ্রান্তিকর ওয়েবসাইট ব্লক করুন</string>
+    <string name="enter_website_hint">ওয়েবসাইটের URL দিন (যেমন: https://example.com)</string>
+    <string name="btn_add">ওয়েবসাইট যোগ করুন</string>
+    <string name="blocked_list_title">লক তালিকার ওয়েবসাইটসমূহ</string>
+    <string name="no_websites_yet">এখনও কোনো ওয়েবসাইট যোগ করা হয়নি। উপরে URL লিখে যোগ করুন।</string>
+    <string name="select_duration_title">লক করার সময় বেছে নিন</string>
+    <string name="duration_30m">৩০ মিনিট</string>
+    <string name="duration_1h">১ ঘণ্টা</string>
+    <string name="duration_8h">৮ ঘণ্টা</string>
+    <string name="btn_start_lock">লক চালু করুন (Start Lock)</string>
+    <string name="status_locked">লক সক্রিয় (Lock Active)</string>
+    <string name="status_unlocked">লক মুক্ত (Unlocked)</string>
+    <string name="time_remaining">বাকি সময়:</string>
+    <string name="notification_title">TimeLock Blocker সক্রিয়</string>
+    <string name="notification_content">ওয়েবসাইট ব্লক চলছে। সময় শেষ না হওয়া পর্যন্ত এটি বন্ধ করা যাবে না।</string>
+    <string name="vpn_permission_rationale">TimeLock Blocker আপনার নির্বাচিত ওয়েবসাইটগুলো ডিভাইস-পর্যায়ে ব্লক করার জন্য Android-এর সুরক্ষিত স্থানীয় VpnService ব্যবহার করে। কোনো ইন্টারনেট ট্রাফিক বাইরের সার্ভারে পাঠানো হয় না। অনুগ্রহ করে পরবর্তী ডায়ালগে VPN অনুমতি প্রদান করুন।</string>
+</resources>
